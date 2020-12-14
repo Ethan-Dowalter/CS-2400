@@ -1,0 +1,32 @@
+Script started on 2019-09-27 17:23:30-0400
+edowalte@odd29:~/CS2400/lab5$ ./a.out
+
+This program processes daily temperature data and will return the highest high and the lowest low, for any amount of days entered.
+
+  (Enter -100 to quit)
+Enter the daily high : 95
+Enter the daily low : 63
+  (Enter -100 to quit)
+Enter the daily high : 99
+Enter the daily low : 50
+  (Enter -100 to quit)
+Enter the daily high : 50
+Enter the daily low : 21
+  (Enter -100 to quit)
+Enter the daily high : 21
+Enter the daily low : -20
+  (Enter -100 to quit)
+Enter the daily high : -21
+Enter the daily low : -25
+  (Enter -100 to quit)
+Enter the daily high : 100
+Enter the daily low : 90
+  (Enter -100 to quit)
+Enter the daily high : -100
+
+The highest temperature was 100
+The lowest temperature was -25
+
+edowalte@odd29:~/CS2400/lab5$ exit
+
+Script done on 2019-09-27 17:24:33-0400
