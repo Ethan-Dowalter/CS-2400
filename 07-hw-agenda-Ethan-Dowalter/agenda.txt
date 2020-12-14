@@ -1,0 +1,19 @@
+Department meeting|2019|10|29|9:30AM|15
+Meeting with Bob|2019|10|29|8:30AM|15
+Meeting with Jim|2019|10|29|9:00AM|15
+Doctor's appointment|2019|10|29|10:30AM|15
+Meeting with Bob|2019|10|29|11:30AM|15
+Lunch meeting with dean|2019|10|29|11:45AM|15
+Lunch with the guys|2019|10|29|12:30PM|60
+Lunch with the guys|2019|10|29|12:30PM|60
+Lunch with the guys|2019|10|29|12:30PM|60
+Meeting With BOB|2019|10|29|1:30PM|15
+Chair meeting|2019|10|29|2:30PM|15
+Meeting WITH Bob|2019|10|29|3:30PM|20
+Fishing with Donald and Donald|2019|11|30|8:14AM|115
+Fishing with Donald and Billy|2019|12|11|2:45PM|15
+Appointment with Donald|2019|12|5|8:56PM|115
+Appointment with Fred|2019|12|1|8:30PM|50
+Lunch|2019|12|1|10:58PM|115
+Fishing with Bob and Fred|2019|12|3|2:45PM|10
+Skiing with Juedes|2019|12|8|9:15AM|60
