@@ -1,4 +1,4 @@
-# CS2400 - Introduction to Computer Science 1
+# CS2400 - Introduction to Computer Science I
 These are the notable assignments from CS2400 (Fall 2019)
 
 This class focused on basic programming principles and ideas using C++
